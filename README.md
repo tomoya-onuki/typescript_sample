@@ -3,7 +3,7 @@
 ## TypeScriptとNode.jsでやる方法
 Node.jsのfsというパッケージを使う
 
-以下のコードを実行すると、変数:text(14行目)の内容が含まれた、output.txtというファイルが作られて
+以下のコードを実行すると、変数:text(4行目)の内容が含まれた、output.txtというファイルが作られて
 
 ### ソースコード
 index.ts<br>
